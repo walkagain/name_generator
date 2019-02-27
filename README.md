@@ -1,4 +1,4 @@
-**[this code belongs to  the "GENERATING NAMES WITH A CHARACTER-LEVEL RNN".][https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html]** 
+**[this code belongs to  the "GENERATING NAMES WITH A CHARACTER-LEVEL RNN".](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)** 
 
 ## Requirements
 
